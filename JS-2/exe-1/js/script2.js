@@ -1,5 +1,5 @@
 console.log("Js 2 externo ok!")
-
+//atv2
 function calculaMedia(){
     let soma =0;
     let media = 0;
